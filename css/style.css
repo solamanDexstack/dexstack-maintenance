@@ -2,11 +2,11 @@
 body{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
-	color: #999999;
+	color: #00246B;
 }
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Montserrat', sans-serif;
-	color: #433b88;
+	color: #44BBEE;
 	font-weight: 600;
 	text-transform: uppercase;
 }
@@ -66,21 +66,21 @@ p{
 }
 .navbar-default .navbar-nav>li>a {
     font-family: 'Montserrat', sans-serif;
-    color: #fff;
+    color: #44BBEE;
     text-transform: uppercase;
 }
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
-    color: #fff;
+    color: #44BBEE;
     background-color: transparent;
 }
 .navbar-default .navbar-nav>li>a:hover{
-	color: #e86c6c;
+	color: #00246B;
 }
 .navbar-nav>li>a.btn-navbar:hover{
-	color: #fff;
+	color: #44BBEE;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-    color: #fff;
+    color: #44BBEE;
     background-color: transparent;
 }
 .navbar-nav>li>a.btn-navbar{
@@ -371,7 +371,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 	color: #fff;
 }
 .btn-violat,.gradient-violat {
-  background-image: -moz-linear-gradient( 135deg, rgb(244,202,216) 0%, rgb(129,112,137) 35%, rgb(14,21,58) 100%);
+  background-image: -moz-linear-gradient( 135deg, #00246B 0%, #44BBEE 35%, rgb(14,21,58) 100%);
   background-image: -webkit-linear-gradient( 135deg, rgb(244,202,216) 0%, rgb(129,112,137) 35%, rgb(14,21,58) 100%);
   background-image: -ms-linear-gradient( 135deg, rgb(244,202,216) 0%, rgb(129,112,137) 35%, rgb(14,21,58) 100%);
 }
